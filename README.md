@@ -12,3 +12,4 @@ Linux/Unix and OSx. (Mostly Mac OSx though.)
 At the moment I make no use of an 'install shellscript' or something like that. I just 'git clone' this repo and
 copy&paste files in position. I will add an install routine in the near future.
 
+2014-05-02: More content coming soon. Additions within a few days.
