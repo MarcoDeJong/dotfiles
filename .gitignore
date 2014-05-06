@@ -1,0 +1,11 @@
+# This file is intended as global .gitignore file
+# git config --global core.excludesfile ~/.gitignore
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
