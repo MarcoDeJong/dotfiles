@@ -6,8 +6,9 @@ found out how to achieve maximum productivity by adjusting hidden configuration 
 started with a dot. Hence the name dotfiles.
 
 I keep my personal dotfiles collection here, as it enables me to easily sync and set-up different machines, 
-Linux/Unix and OSx.
+Linux/Unix and OSx. (Mostly Mac OSx though.)
 
 #Install
-At the moment I make no use of an 'install shellscript' or something like that. I just clone this repo and 
+At the moment I make no use of an 'install shellscript' or something like that. I just 'git clone' this repo and
 copy&paste files in position. I will add an install routine in the near future.
+
