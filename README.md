@@ -8,8 +8,11 @@ started with a dot. Hence the name dotfiles.
 I keep my personal dotfiles collection here, as it enables me to easily sync and set-up different machines, 
 Linux/Unix and OSx. (Mostly Mac OSx though.)
 
-#Install
-At the moment I make no use of an 'install shellscript' or something like that. I just 'git clone' this repo and
-copy&paste files in position. I will add an install routine in the near future.
+#Install Mac OSX defaults (.osx)
+Some usefull system default will be installed by running this script only once. To install the Mac OSX 
+default config file: run `bash .osx`. Your system will ask for your password. ENTER.
+Just wait for the command to complete. Afterwards restart your system for all changes to take effect.
+
+I would like to credit https://github.com/mathiasbynens/ for his .osx goodness
 
 2015-08-10: More content coming soon.
